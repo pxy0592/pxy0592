@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-- 🔭 I’m currently working on [knowledge graph](https://github.com/JanusGraph/janusgraph.git)
+- 🔭 I’m currently working on [knowledge graph](https://github.com/JanusGraph/janusgraph.git) and data governance.
 
 - 🌱 I’m currently learning **knowledge graph, graph database, etc.**
 
